@@ -1,7 +1,7 @@
 
 import './App.css';
-import './style.css';
-import Hero from './Hero';
+import './components/style.css';
+import Hero from './components/Hero';
 import superheroes from './superheroes.json';
 
 
