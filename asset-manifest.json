@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SuperHeroes.week22/static/css/main.8622b1d4.css",
+    "main.js": "/SuperHeroes.week22/static/js/main.1e94e5e5.js",
+    "index.html": "/SuperHeroes.week22/index.html",
+    "main.8622b1d4.css.map": "/SuperHeroes.week22/static/css/main.8622b1d4.css.map",
+    "main.1e94e5e5.js.map": "/SuperHeroes.week22/static/js/main.1e94e5e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8622b1d4.css",
+    "static/js/main.1e94e5e5.js"
+  ]
+}
